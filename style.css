@@ -1,18 +1,12 @@
 body {
     width: 390px;
-    height: 844px;
+    height: 560px;
     margin: 0;
     padding: 0;
-    background: green;
 }
 
-.main-box{
-    background: blue;
-}
-
-.logo{
+.menu-digita-monics{
     max-width: 100%; /* ancho deseado */
     height: auto;
     display: block;
-    background: blue;
 }
